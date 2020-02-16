@@ -2,7 +2,7 @@
   "name": "canvas-game-2d",
   "version": "1.0.0",
   "description": "A simple 2D canvas game",
-  "main": "./dist/index.js",
+  "main": "./public/dist/index.js",
   "scripts": {
     "dev": "tsc -w"
   },
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/doddydigitaldesign/canvas-game-2d/issues"
   },
-  "homepage": "https://github.com/doddydigitaldesign/canvas-game-2d#readme"
+  "homepage": "https://github.com/doddydigitaldesign/canvas-game-2d#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
