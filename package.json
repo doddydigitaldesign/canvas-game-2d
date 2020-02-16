@@ -1,0 +1,20 @@
+{
+  "name": "canvas-game-2d",
+  "version": "1.0.0",
+  "description": "A simple 2D canvas game",
+  "main": "./dist/index.js",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doddydigitaldesign/canvas-game-2d.git"
+  },
+  "keywords": [],
+  "author": "Doddy Digital Design AB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doddydigitaldesign/canvas-game-2d/issues"
+  },
+  "homepage": "https://github.com/doddydigitaldesign/canvas-game-2d#readme"
+}
